@@ -26,6 +26,8 @@ Some of these projects are still being shaped before public release, so I keep p
 
 - Agent runtime control planes
 - Memory and context systems for AI applications
+- World models and reinforcement learning
+- CUDA and GPU runtime fundamentals
 - Reliable local automation and reproducible engineering workflows
 - Systems that combine research ideas with concrete implementation constraints
 - Engineering workflows that are auditable and easy to reproduce
