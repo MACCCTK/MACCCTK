@@ -6,11 +6,11 @@ My interests sit where AI workloads meet systems engineering: making model-drive
 
 ## Current Focus
 
-- **AI runtime systems and serving infrastructure**: CUDA, profiling, scheduling, memory management, vLLM, SGLang, and Triton.
-- **Agent infrastructure and control planes**: task scheduling, state consistency, recovery, auditability, and runtime interfaces.
-- **Memory and graph intelligence**: structured memory, temporal graph memory, GraphRAG, provenance, and relationship reasoning.
-- **World models and reinforcement learning**: environment modeling, long-horizon planning, policy learning, and agentic behavior.
-- **Personal AI OS**: knowledge-work systems that connect research, engineering practice, and local automation.
+- **AI runtime and serving**: CUDA, profiling, scheduling, memory management, vLLM, SGLang, Triton.
+- **Agent control planes**: task scheduling, state consistency, recovery, auditability, runtime interfaces.
+- **Memory and graph intelligence**: structured memory, temporal graphs, GraphRAG, provenance, relationship reasoning.
+- **World models and RL**: environment modeling, long-horizon planning, policy learning, agentic behavior.
+- **Personal AI OS**: knowledge-work systems for research, engineering practice, and local automation.
 
 ## Selected Work
 
