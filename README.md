@@ -1,18 +1,16 @@
 # Hi, I'm Carlos
 
-I build practical AI systems, developer tools, and backend infrastructure with a bias toward systems that can be inspected, reproduced, and improved locally.
+I work on AI systems infrastructure: runtime systems, serving infrastructure, agent control planes, and memory-oriented systems for intelligent applications.
 
-My work sits near the boundary between AI applications and systems engineering: agent runtime control, memory and context infrastructure, async runtimes, local automation, and the engineering workflows that make those systems reliable.
+My interests sit where AI workloads meet systems engineering: making model-driven systems faster, more reliable, easier to coordinate, and easier to reason about under real implementation constraints.
 
-I like taking ambiguous ideas, reducing them to small verifiable slices, and turning them into systems with clear ownership boundaries, runnable checks, and documentation that explains why the design exists.
+## Current Focus
 
-## Focus
-
-- AI agents, automation, and runtime coordination
-- Backend infrastructure and distributed systems
-- C++ / Rust systems programming
-- Developer tools and local-first workflows
-- Knowledge systems, research synthesis, and technical writing
+- **AI runtime systems and serving infrastructure**: CUDA, profiling, scheduling, memory management, vLLM, SGLang, and Triton.
+- **Agent infrastructure and control planes**: task scheduling, state consistency, recovery, auditability, and runtime interfaces.
+- **Memory and graph intelligence**: structured memory, temporal graph memory, GraphRAG, provenance, and relationship reasoning.
+- **World models and reinforcement learning**: environment modeling, long-horizon planning, policy learning, and agentic behavior.
+- **Personal AI OS**: knowledge-work systems that connect research, engineering practice, and local automation.
 
 ## Selected Work
 
@@ -22,22 +20,14 @@ I like taking ambiguous ideas, reducing them to small verifiable slices, and tur
 
 Some of these projects are still being shaped before public release, so I keep public descriptions high-level and use the work mainly to sharpen system design, implementation discipline, and research taste.
 
-## Current Interests
-
-- Agent runtime control planes
-- Memory and context systems for AI applications
-- World models and reinforcement learning
-- CUDA and GPU runtime fundamentals
-- Reliable local automation and reproducible engineering workflows
-- Systems that combine research ideas with concrete implementation constraints
-- Engineering workflows that are auditable and easy to reproduce
-
+<!--
 ## Writing And Notes
 
 - Technical notes on AI systems, agent memory, and runtime infrastructure
 - Engineering logs from project development and debugging
 - Research summaries that connect papers to implementation choices
 - Implementation writeups that make design tradeoffs explicit
+-->
 
 ## How I Work
 
